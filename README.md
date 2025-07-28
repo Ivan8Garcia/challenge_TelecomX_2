@@ -1,6 +1,7 @@
 # challenge_TelecomX_2
 
 Objetivos del Desafío
+
 Se prepararon los datos para el modelado (tratamiento, codificación, normalización).
 
 Se realizó análisis de correlación y selección de variables.
