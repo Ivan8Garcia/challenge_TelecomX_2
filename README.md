@@ -1,6 +1,6 @@
 # challenge_TelecomX_2
 
-Objetivos del Desafío
+**Objetivos del Desafío**
 
 Se prepararon los datos para el modelado (tratamiento, codificación, normalización).
 
