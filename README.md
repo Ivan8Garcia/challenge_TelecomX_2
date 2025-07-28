@@ -21,7 +21,7 @@ Se cargó el archivo CSV que contiene los datos tratados anteriormente. 📂 Ate
 
 Abrir el archivo .ipynb en Google Colaboratory.
 
-Asegurarse de tener conexión a internet, ya que los datos se descargan desde una URL externa.
+Asegurarse de tener conexión a internet, ya que los datos se descargan desde un archivo de excel csv.
 
 Ejecutar cada celda de código secuencialmente desde el principio hasta el final.
 
