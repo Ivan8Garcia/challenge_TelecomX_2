@@ -16,6 +16,9 @@ Se creó una conclusión estratégica señalando los principales factores que ev
 
 Se cargó el archivo CSV que contiene los datos tratados anteriormente. 📂 Atención: Utiliza el mismo archivo que limpiaste y organizaste en la Parte 1 del desafío Telecom X. Debe contener solo las columnas relevantes, ya con los datos corregidos y estandarizados.
 
+Se muestran graficas para mostrar los resultados que se desarrollan paso a paso, ellos son graficos de tipo box-plot, scatter-plot 
+graficos de barras, graficas circulares, etc.
+
 
 **Instrucciones para Ejecutar el Notebook:**
 
